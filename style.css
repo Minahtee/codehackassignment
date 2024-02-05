@@ -1,0 +1,32 @@
+/** NAVBAR STYLING **/
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  background-color: #C8F7F2;
+}
+
+a {
+  display: inline;
+  float: left;
+  padding: 8px;
+  margin-right: 20px;
+  background-color:#F6DCDA;
+}
+
+
+footer {
+  padding: 10px;
+  margin-top: auto;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightgrey;
+  color: white;
+  text-align: center;
+}
+
+  
